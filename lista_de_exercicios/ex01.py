@@ -12,3 +12,4 @@ raio = float(input())
 pi = 3.14159
 area = pi *(raio ** 2)
 print('Area = %.4f' % area)
+
